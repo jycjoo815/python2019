@@ -15,7 +15,7 @@
 [데이터보기](https://www.data.go.kr/dataset/15022083/fileData.do)
 
 ## 소스
-* [링크로 소스 내용 보기](https://github.com/cybermin/python2019/blob/master/tes.py) 
+* [링크로 소스 내용 보기](https://github.com/jycjoo815/python2019/blob/master/module1.py) 
 
 * 코드 삽입
 ~~~python
